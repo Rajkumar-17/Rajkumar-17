@@ -147,29 +147,6 @@ Worked on a multi-server lending ecosystem built around a Loan Origination Syste
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rajkumar-17&show_icons=true&hide_border=true&bg_color=0A1628&title_color=2E9BFF&icon_color=2E9BFF&text_color=8AA3C0&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajkumar-17&layout=compact&hide_border=true&bg_color=0A1628&title_color=2E9BFF&text_color=8AA3C0&langs_count=8" alt="Top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Rajkumar-17&hide_border=true&background=0A1628&ring=2E9BFF&fire=2E9BFF&currStreakLabel=2E9BFF&sideLabels=8AA3C0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=5A718F" alt="GitHub streak" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rajkumar-17&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Trophies" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajkumar-17&bg_color=0A1628&color=2E9BFF&line=2E9BFF&point=FFFFFF&area=true&hide_border=true" alt="Activity graph" width="98%" />
-
-</div>
-
----
-
 <div align="center">
 
 ### Open to full-time roles, freelance and collaboration
