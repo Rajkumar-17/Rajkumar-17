@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1628,50:1868B0,100:2E9BFF&height=180&section=header&text=Rajkumar%20Gehlot&fontSize=48&fontColor=ffffff&fontAlignY=32&desc=AI-Enabled%20Full-Stack%20Developer&descAlignY=54&descSize=18" width="100%" alt="Rajkumar Gehlot" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1628,50:1868B0,100:2E9BFF&height=180&section=header&text=Rajkumar%20Gehlot&fontSize=48&fontColor=ffffff&fontAlignY=32&desc=GenAI-Enabled%20Full-Stack%20Developer&descAlignY=54&descSize=18" width="100%" alt="Rajkumar Gehlot" />
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=2E9BFF&center=true&vCenter=true&width=560&lines=Node.js+%C2%B7+React+%C2%B7+PostgreSQL;Microservices+%26+REST+APIs;OCR+%26+AI-assisted+workflows;Building+for+fintech+%26+lending" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=2E9BFF&center=true&vCenter=true&width=620&lines=Node.js+%C2%B7+React+%C2%B7+PostgreSQL;Generative+AI+%26+LLM+Integration;OpenAI+%C2%B7+Gemini+%C2%B7+Prompt+Engineering;Microservices+%26+REST+APIs;Building+for+fintech+%26+lending" alt="Typing SVG" />
 </p>
 
 <p>
   <a href="https://www.linkedin.com/in/rajkumar-gehlot-a2376b1a8"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:rajkumargehlot1212000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://portfolio-zeta-pink-56.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0A1628?style=for-the-badge&logo=react&logoColor=2E9BFF" alt="Portfolio" /></a>
-  <!-- <img src="https://komarev.com/ghpvc/?username=Rajkumar-17&style=for-the-badge&color=2E9BFF&label=PROFILE+VIEWS" alt="Profile views" /> -->
+  <a href="https://portfolio-zeta-pink-56.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0A1628?style=for-the-badge&logo=react&logoColor=2E9BFF" alt="Portfolio" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Rajkumar-17&style=for-the-badge&color=2E9BFF&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 </div>
@@ -19,15 +19,14 @@
 
 ## About
 
-Full-stack developer based in **Jaipur, Rajasthan**. I spent the last two and a half years building production systems in the **lending and fintech** space — Node.js services, React front-ends, PostgreSQL schema work, and a fair amount of automation: OCR pipelines, document extraction, and AI-assisted workflows that took manual steps out of day-to-day operations.
+Full-stack developer based in **Jaipur, Rajasthan** with 2.5+ years of experience on production systems in the **lending and fintech** space. I work across Node.js services, React and React Native front-ends, and PostgreSQL, and I build **Generative AI features into enterprise applications**: LLM-based document extraction, resume parsing and scoring, and prompt-driven workflows that remove manual steps from operations.
 
-**Currently open to full-stack roles and freelance work.**
-
-- 🏢 **Senior Software Developer**, Ascend Capital *(Mar 2024 – Aug 2026)*
-- 🎓 **B.Tech, Computer Science** — Jodhpur Institute of Engineering and Technology
+- 🏢 **Senior Software Developer** at Ascend Capital *(Mar 2024 – Aug 2026)*
+- 💼 **Freelance developer** with ARCHSOL Consultants *(Aug 2026 – Present)*
+- 🎓 **B.Tech, Computer Science**, Jodhpur Institute of Engineering and Technology
 - 🛠️ Mostly **Node.js · Express · React · PostgreSQL · Redis**
-- 🤖 Interested in where **AI tooling meets ordinary backend work** — OCR, extraction, prompt-driven automation, n8n
-- 🌐 **[portfolio-zeta-pink-56.vercel.app](https://portfolio-zeta-pink-56.vercel.app/)**
+- 🤖 Working with **OpenAI and Google Gemini**: structured JSON extraction, provider failover and validation of LLM output
+- 🔬 Exploring **agents, tool calling and MCP**, and learning AWS serverless and RAG
 - 📫 **rajkumargehlot1212000@gmail.com**
 
 ---
@@ -39,7 +38,16 @@ Full-stack developer based in **Jaipur, Rajasthan**. I spent the last two and a 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+
+**Generative AI & Automation**
+
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-2E9BFF?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-1868B0?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 **Frontend**
 
@@ -51,45 +59,47 @@ Full-stack developer based in **Jaipur, Rajasthan**. I spent the last two and a 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Backend**
+**Backend & Security**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-2E9BFF?style=flat-square&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square)
 
 **Data**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-**Tools**
+**Cloud, Testing & Tools**
 
+![AWS EC2 & S3](https://img.shields.io/badge/AWS-EC2_%7C_S3-FF9900?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-0A1628?style=flat-square&logo=cursor&logoColor=white)
 
 ---
 
 ## What I Work On
 
-Most of my production work lives in private company repositories, so here's what it actually involved:
+Most of my production work lives in private company repositories, so here's what it actually involves:
 
 | Area | What that means in practice |
 |---|---|
-| **Loan Management** | Third-party KYC, payments and vehicle-tracking integrations; SQL and reporting-endpoint optimisation; production deployments |
-| **Microservices** | Authentication service with IP controls and token-based access; certificate readiness |
-| **OCR & AI Workflows** | Document extraction and parsing pipelines that replace manual data entry |
-| **Internal Platforms** | Staff operations, attendance, geofencing, dealer onboarding, and an HR portal with resume parsing and candidate mapping |
+| **Generative AI** | LLM-based extraction of identity documents into structured JSON using OpenAI and Gemini, with provider failover, fuzzy-match validation, and stored raw responses for traceability |
+| **AI in HR tooling** | Resume parsing and AI candidate-to-job-description matching with scores and explanations |
+| **Loan Management** | KYC flows, payment processing, vehicle tracking, query optimisation, production deployments |
+| **Microservices & Auth** | Central authentication service with JWT access/refresh tokens, OTP, role-based access and service-to-service security |
+| **Mobile & Field Ops** | React Native app for staff attendance, geofencing, live location, dealer onboarding and Bluetooth receipt printing |
 | **Scheduled Systems** | Cron jobs, schedulers, and automated background processing |
 
-Alongside that: sprint planning, debugging, e2e testing, and code review with product and QA teams.
-
-**Education** — B.Tech, Computer Science, Jodhpur Institute of Engineering and Technology (2019–2023)
+Alongside that: Agile sprints, debugging, Playwright end-to-end testing, and code review with product and QA teams.
 
 ---
 
@@ -97,18 +107,42 @@ Alongside that: sprint planning, debugging, e2e testing, and code review with pr
 
 | Project | Description | Stack |
 |---|---|---|
-| **[portfolio](https://github.com/Rajkumar-17/portfolio)** · [live ↗](https://portfolio-zeta-pink-56.vercel.app/) | Personal site and project showcase | `TypeScript` `React` `Vite` `Tailwind v4` `Motion` |
+| **[portfolio](https://github.com/Rajkumar-17/portfolio)** ([live](https://portfolio-zeta-pink-56.vercel.app)) | Personal site and project showcase | `TypeScript` `React` `Vite` `Tailwind v4` `Motion` |
+| **ARCHSOL Consultants website** | Company website for an architecture and BIM consultancy, from layout to launch | `Web` |
+| **Claude + Blender via MCP** | Experiment connecting Blender to Claude through Model Context Protocol | `MCP` `Claude` `Blender` |
+| **n8n task automation** | Workflow that emails a daily task-status summary to an admin after 9 PM | `n8n` |
 | **[task_management](https://github.com/Rajkumar-17/task_management)** | Task tracking application | `JavaScript` `React` |
 | **[Virtual-Earth](https://github.com/Rajkumar-17/Virtual-Earth)** | MERN geography/mapping application | `MongoDB` `Express` `React` `Node` |
-| **[SocialMedia-UI-UX](https://github.com/Rajkumar-17/SocialMedia-UI-UX)** | Social app UI/UX built in React | `JavaScript` `React` |
 | **[UNITY](https://github.com/Rajkumar-17/UNITY)** | Game development experiments | `C#` `Unity` |
 
 ---
 
+## GitHub Stats
 
 <div align="center">
 
-### Open to full-stack roles, freelance and collaboration
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rajkumar-17&show_icons=true&hide_border=true&bg_color=0A1628&title_color=2E9BFF&icon_color=2E9BFF&text_color=8AA3C0&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajkumar-17&layout=compact&hide_border=true&bg_color=0A1628&title_color=2E9BFF&text_color=8AA3C0&langs_count=8" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Rajkumar-17&hide_border=true&background=0A1628&ring=2E9BFF&fire=2E9BFF&currStreakLabel=2E9BFF&sideLabels=8AA3C0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=5A718F" alt="GitHub streak" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rajkumar-17&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Trophies" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajkumar-17&bg_color=0A1628&color=2E9BFF&line=2E9BFF&point=FFFFFF&area=true&hide_border=true" alt="Activity graph" width="98%" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Open to full-time roles, freelance and collaboration
 
 <a href="mailto:rajkumargehlot1212000@gmail.com"><img src="https://img.shields.io/badge/Get_in_touch-2E9BFF?style=for-the-badge&logoColor=white" alt="Get in touch" /></a>
 <a href="https://www.linkedin.com/in/rajkumar-gehlot-a2376b1a8"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
