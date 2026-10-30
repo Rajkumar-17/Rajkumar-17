@@ -31,34 +31,20 @@ Full-stack developer based in **Jaipur, Rajasthan** with 2.5+ years of experienc
 
 ---
 
-## Work Experience
+## What I Work On
 
-### Ascend Capital — Jaipur, India
-**Mar 2024 – Aug 2026** · NBFC (vehicle and EV dealer-channel lending)
+Most of my production work lives in private company repositories, so here's what it actually involves:
 
-| Role | Period |
+| Area | What that means in practice |
 |---|---|
-| **Senior Software Developer** | Sep 2025 – Aug 2026 |
-| **Software Developer** | Aug 2024 – Sep 2025 |
-| **Software Development Intern** | Mar 2024 – Aug 2024 |
+| **Generative AI** | LLM-based extraction of identity documents into structured JSON using OpenAI and Gemini, with provider failover, fuzzy-match validation, and stored raw responses for traceability |
+| **AI in HR tooling** | Resume parsing and AI candidate-to-job-description matching with scores and explanations |
+| **Loan Management** | KYC flows, payment processing, vehicle tracking, query optimisation, production deployments |
+| **Microservices & Auth** | Central authentication service with JWT access/refresh tokens, OTP, role-based access and service-to-service security |
+| **Mobile & Field Ops** | React Native app for staff attendance, geofencing, live location, dealer onboarding and Bluetooth receipt printing |
+| **Scheduled Systems** | Cron jobs, schedulers, and automated background processing |
 
-Worked on a multi-server lending ecosystem built around a Loan Origination System (LOS), with HR, Accounts, Dealer and Authentication services.
-
-- 🤖 Built **LLM-based document extraction** (OpenAI + Google Gemini) for Aadhaar, PAN, Driving Licence, Learner's Licence and Voter ID, returning structured JSON that auto-fills customer forms; cut per-file exception checklists from 20–30 items to 10–12
-- 🔁 Designed a configurable **LLM provider failover** (OpenAI → Gemini after three consecutive failures) with priority set through Redis configuration
-- ✅ Added validation around LLM output: fuzzy matching (~80% threshold) and cross-checks against DigiLocker responses; stored raw responses and extracted JSON in PostgreSQL for traceability
-- 📄 Built **AI resume parsing** and candidate-to-job-description matching with scores and explanations for HR
-- ⚡ Optimised PostgreSQL queries and reporting endpoints, **cutting dashboard load time from 10 s to 1.3 s (87%)**
-- 🔗 Integrated KYC, payment and vehicle APIs across loan origination, supporting **~1,480 new loan files per month**
-- 📱 Built **React Native** features for a field app used daily by **240+ staff**: geofencing, live location tracking, push notifications, camera and Bluetooth receipt printing
-- 🔐 Developed a central **authentication microservice** (JWT access/refresh tokens, OTP, RBAC) securing service-to-service REST calls
-- 🧹 Modernised the Dealer Portal, refactoring ~90% of the codebase and improving database schemas
-- 🧪 Wrote **Playwright** end-to-end tests, added request-ID error logging, handled hotfixes and EC2 deployments over SSH, and worked in a five-member Agile team
-
-### ARCHSOL Consultants — Jaipur, India
-**Aug 2026 – Present** · Freelance
-
-- Designed and developed the company website for an architecture and BIM consultancy, from layout and content structure to launch
+Alongside that: Agile sprints, debugging, Playwright end-to-end testing, and code review with product and QA teams.
 
 ---
 
@@ -117,22 +103,35 @@ Worked on a multi-server lending ecosystem built around a Loan Origination Syste
 
 ---
 
-## What I Work On
+## Work Experience
 
-Most of my production work lives in private company repositories, so here's what it actually involves:
+### Ascend Capital — Jaipur, India
+**Mar 2024 – Aug 2026** · NBFC (vehicle and EV dealer-channel lending)
 
-| Area | What that means in practice |
+| Role | Period |
 |---|---|
-| **Generative AI** | LLM-based extraction of identity documents into structured JSON using OpenAI and Gemini, with provider failover, fuzzy-match validation, and stored raw responses for traceability |
-| **AI in HR tooling** | Resume parsing and AI candidate-to-job-description matching with scores and explanations |
-| **Loan Management** | KYC flows, payment processing, vehicle tracking, query optimisation, production deployments |
-| **Microservices & Auth** | Central authentication service with JWT access/refresh tokens, OTP, role-based access and service-to-service security |
-| **Mobile & Field Ops** | React Native app for staff attendance, geofencing, live location, dealer onboarding and Bluetooth receipt printing |
-| **Scheduled Systems** | Cron jobs, schedulers, and automated background processing |
+| **Senior Software Developer** | Sep 2025 – Aug 2026 |
+| **Software Developer** | Aug 2024 – Sep 2025 |
+| **Software Development Intern** | Mar 2024 – Aug 2024 |
 
-Alongside that: Agile sprints, debugging, Playwright end-to-end testing, and code review with product and QA teams.
+Worked on a multi-server lending ecosystem built around a Loan Origination System (LOS), with HR, Accounts, Dealer and Authentication services.
 
----
+- 🤖 Built **LLM-based document extraction** (OpenAI + Google Gemini) for Aadhaar, PAN, Driving Licence, Learner's Licence and Voter ID, returning structured JSON that auto-fills customer forms; cut per-file exception checklists from 20–30 items to 10–12
+- 🔁 Designed a configurable **LLM provider failover** (OpenAI → Gemini after three consecutive failures) with priority set through Redis configuration
+- ✅ Added validation around LLM output: fuzzy matching (~80% threshold) and cross-checks against DigiLocker responses; stored raw responses and extracted JSON in PostgreSQL for traceability
+- 📄 Built **AI resume parsing** and candidate-to-job-description matching with scores and explanations for HR
+- ⚡ Optimised PostgreSQL queries and reporting endpoints, **cutting dashboard load time from 10 s to 1.3 s (87%)**
+- 🔗 Integrated KYC, payment and vehicle APIs across loan origination, supporting **~1,480 new loan files per month**
+- 📱 Built **React Native** features for a field app used daily by **240+ staff**: geofencing, live location tracking, push notifications, camera and Bluetooth receipt printing
+- 🔐 Developed a central **authentication microservice** (JWT access/refresh tokens, OTP, RBAC) securing service-to-service REST calls
+- 🧹 Modernised the Dealer Portal, refactoring ~90% of the codebase and improving database schemas
+- 🧪 Wrote **Playwright** end-to-end tests, added request-ID error logging, handled hotfixes and EC2 deployments over SSH, and worked in a five-member Agile team
+
+### ARCHSOL Consultants — Jaipur, India
+**Aug 2026 – Present** · Freelance
+
+- Designed and developed the company website for an architecture and BIM consultancy, from layout and content structure to launch
+
 
 ## Featured Projects
 
